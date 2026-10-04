@@ -9,7 +9,6 @@ Below is a side-by-side comparison showcasing the original Amazon interface next
 <table>
   <tr>
     <td align="center"><b>Original Amazon Website</b></td>
-    <td align="center"><b>My HTML & CSS Clone</b></td>
   </tr>
   <tr>
     <td>
@@ -17,6 +16,9 @@ Below is a side-by-side comparison showcasing the original Amazon interface next
     </td>
   </tr>
   <tr>
+  <tr>
+    <td align="center"><b>My HTML & CSS Clone</b></td>
+  </tr>
     <td>
       <img src="https://github.com/user-attachments/assets/f2a24af9-1f72-4d67-bdb9-c58405423a50" alt="My Clone" width="100%">
     </td>
