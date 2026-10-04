@@ -8,20 +8,21 @@ Below is a side-by-side comparison showcasing the original Amazon interface next
 
 <table>
   <tr>
-    <td align="center"><b>Original Amazon Website</b></td>
-    <td align="center"><b>My HTML & CSS Clone</b></td>
+    <td><b>Original Amazon Website</b></td>
+    <td><b>My HTML & CSS Clone</b></td>
   </tr>
   <tr>
     <td>
-      <img src="<img width="1440" height="900" alt="Screenshot 2026-10-04 at 5 35 31 PM" src="https://github.com/user-attachments/assets/046afb67-340d-4cbf-bf7f-119efdebf35b" />
-" alt="clone Amazon Screenshot" width="100%">
+      <img src="<img width="1248" height="848" alt="Screenshot 2026-10-04 at 6 36 18 PM" src="https://github.com/user-attachments/assets/cbece408-2634-4c20-918b-272306fbd987" />
+" alt="Original Website" width="100%">
     </td>
     <td>
-      <img src="<img width="1440" height="900" alt="Screenshot 2026-10-04 at 5 35 39 PM" src="https://github.com/user-attachments/assets/7b8d202e-7d93-4478-adae-c97ab607b998" />
-" alt="clone Amazon Screenshot" width="100%">
+      <img src="<img width="1440" height="900" alt="Screenshot 2026-10-04 at 5 35 31 PM" src="https://github.com/user-attachments/assets/82b39767-6598-47ea-92a2-a241c2c965f0" />
+" alt="My Clone" width="100%">
     </td>
   </tr>
 </table>
+
 
 ---
 ## ⚡ Key Features Replicated
