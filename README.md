@@ -13,13 +13,12 @@ Below is a side-by-side comparison showcasing the original Amazon interface next
   </tr>
   <tr>
     <td>
-      <img src="https://github.com/user-attachments/assets/f2a24af9-1f72-4d67-bdb9-c58405423a50" alt="Original Website" width="100%">
+      <img src="https://github.com/user-attachments/assets/75c962ef-f424-43b0-a777-b98b256e7cf5"alt="Original Website" width="100%">
     </td>
   </tr>
   <tr>
     <td>
-      <img src="1248" height="848" alt="Screenshot 2026-10-04 at 6 36 18 PM" src="https://github.com/user-attachments/assets/1737618c-722b-4b8c-8ea2-e41cbfe3569d
-" alt="My Clone" width="100%">
+      <img src="https://github.com/user-attachments/assets/f2a24af9-1f72-4d67-bdb9-c58405423a50" alt="My Clone" width="100%">
     </td>
   </tr>
 </table>
@@ -57,4 +56,5 @@ To capture the true feel of Amazon, I paid close attention to replicating these 
    ```
 3. **Open the project:**
    Simply double-click the `index.html` file or run it via the **Live Server** extension in VS Code.
+
 
