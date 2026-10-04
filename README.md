@@ -15,6 +15,8 @@ Below is a side-by-side comparison showcasing the original Amazon interface next
     <td>
       <img src="https://github.com/user-attachments/assets/f2a24af9-1f72-4d67-bdb9-c58405423a50" alt="Original Website" width="100%">
     </td>
+  </tr>
+  <tr>
     <td>
       <img src="1248" height="848" alt="Screenshot 2026-10-04 at 6 36 18 PM" src="https://github.com/user-attachments/assets/1737618c-722b-4b8c-8ea2-e41cbfe3569d
 " alt="My Clone" width="100%">
