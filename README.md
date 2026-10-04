@@ -8,8 +8,8 @@ Below is a side-by-side comparison showcasing the original Amazon interface next
 
 <table>
   <tr>
-    <td><b>Original Amazon Website</b></td>
-    <td><b>My HTML & CSS Clone</b></td>
+    <td align="center"><b>Original Amazon Website</b></td>
+    <td align="center"><b>My HTML & CSS Clone</b></td>
   </tr>
   <tr>
     <td>
